@@ -1,7 +1,6 @@
 {
   "name": "Calculater-JEST",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "jest": "^24.9.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BluebirdLyrase/Calculater-JEST.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BluebirdLyrase/Calculater-JEST/issues"
+  },
+  "homepage": "https://github.com/BluebirdLyrase/Calculater-JEST#readme",
+  "description": ""
 }
